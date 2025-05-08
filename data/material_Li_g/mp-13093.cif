@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La3Ni2Sn7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62294750
+_cell_length_b   4.63304121
+_cell_length_c   14.07646829
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.45125582
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Ni2Sn7
+_chemical_formula_sum   'La3 Ni2 Sn7'
+_cell_volume   297.40152507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.18438867  -0.00000000  0.36877933  1
+  La  La1  1  0.81561033  -0.00000000  0.63122067  1
+  La  La2  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni3  1  0.37216371  0.50000000  0.74432741  1
+  Ni  Ni4  1  0.62783629  0.50000000  0.25567259  1
+  Sn  Sn5  1  0.08996861  0.50000000  0.17993723  1
+  Sn  Sn6  1  0.91003139  0.50000000  0.82006277  1
+  Sn  Sn7  1  0.28169522  0.50000000  0.56339144  1
+  Sn  Sn8  1  0.71830478  0.50000000  0.43660856  1
+  Sn  Sn9  1  -0.00000000  -0.00000000  0.00000000  1
+  Sn  Sn10  1  0.58979799  -0.00000000  0.17959798  1
+  Sn  Sn11  1  0.41020201  -0.00000000  0.82040202  1
